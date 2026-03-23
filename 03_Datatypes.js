@@ -25,3 +25,11 @@ console.log(typeof(str));
 console.log(typeof num);
 console.log(str);
 
+//****************OPERATIONS *************** */
+
+console.log(2+2);   // addition
+console.log(2-2);   // substraction
+console.log(2/2);   // divide
+console.log(2%5);   //reminder
+console.log(2*2);   // multiply
+console.log(2**3); // power of 2^3
